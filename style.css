@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.kotak1 {
+  width: 80px;
+  height: 80px;
+  background-color: bisque;
+  border: 1px solid black;
+  line-height: 80px;
+  text-align: center;
+}
+
+
+.kotak2 {
+  width: 80px;
+  height: 80px;
+  background-color: bisque;
+  border: 1px solid black;
+  float: left;
+  line-height: 80px;
+  text-align: center;
+}
+
+.kotak3 {
+  width: 80px;
+  height: 80px;
+  background-color: bisque;
+  border: 1px solid black;
+  float: left;
+  line-height: 80px;
+  text-align: center;
+}
+
+.clear {
+  clear: left;
+}
